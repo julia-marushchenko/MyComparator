@@ -48,6 +48,7 @@ public class Main {
         for (Customer element : list) {
 
             System.out.println(element.id + " " + element.name);
+            
         }
 
     }
